@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Rodrigo Marti Scharfhausen rodrigocharfa@gmail.com	@oewr
 
 # THANKS
 
