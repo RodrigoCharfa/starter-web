@@ -20,4 +20,4 @@ este cambio es el tercero y estará sin trackear
 
 ## how to contribute 
 
-Git.Trainnig 
+Git.Trainnig. esto no deberia apraecer en el normal
