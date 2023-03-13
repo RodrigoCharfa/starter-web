@@ -4,6 +4,9 @@ adding a line for rebasing example
 
 ## introduction  
 
+linea para stahs
+
+
 Este primer cambio es para ponerlo en el repositorio
 para ello habremos hecho un commit de este cambio
 
